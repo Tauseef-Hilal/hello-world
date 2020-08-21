@@ -1,2 +1,5 @@
 # hello-world
-Just a test repository
+
+Hello Humans!
+
+Tauseef here, I am a Beginner Python programmer.
